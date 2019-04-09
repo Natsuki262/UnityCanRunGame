@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100268, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
       propertyPath: m_Name
-      value: SD_unitychan_generic
+      value: SD_unitychan_generic Variant
       objectReference: {fileID: 0}
     - target: {fileID: 400056, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -749,6 +749,7 @@ PrefabInstance:
     - {fileID: 11400088, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
     - {fileID: 11400086, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
     - {fileID: 11400084, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
+    - {fileID: 9500000, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: e39dd657be7298d408f1a135c76c3d9a, type: 3}
 --- !u!4 &617591347972654023 stripped
 Transform:
