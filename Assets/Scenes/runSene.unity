@@ -179,7 +179,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &335873184 stripped
 GameObject:
@@ -206,6 +206,12 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!4 &335873186 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 617591347972654077, guid: c5a5d10c941df004ca86ae805ddbcac3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1357706176}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &335873187
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -293,13 +299,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0.009243467, y: 0.997124, z: 0.075048886, w: -0.005088854}
-  m_LocalPosition: {x: 0.1, y: 0.32, z: 1.63}
+  m_LocalRotation: {x: 0.00059421407, y: -0.99936974, z: 0.028979592, w: 0.02049165}
+  m_LocalPosition: {x: 0.05, y: 1.21, z: 2.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -8.613001, y: 180.508, z: 1.024}
+  m_Father: {fileID: 335873186}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 3.3220003, y: -177.651, z: 0}
 --- !u!1 &557535548
 GameObject:
   m_ObjectHideFlags: 0
@@ -385,9 +391,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 557535548}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 9.895302e-10, w: 1}
   m_LocalPosition: {x: 0.048, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4.2521, y: 4.2521, z: 4.2521}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -442,7 +448,7 @@ PrefabInstance:
     - target: {fileID: 617591347972654077, guid: c5a5d10c941df004ca86ae805ddbcac3,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 617591347972654077, guid: c5a5d10c941df004ca86ae805ddbcac3,
         type: 3}

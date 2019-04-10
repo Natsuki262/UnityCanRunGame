@@ -14,13 +14,13 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: is_junp
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -76,9 +76,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.75
+  m_TransitionDuration: 1.546102
+  m_TransitionOffset: 0.26336727
+  m_ExitTime: 0.10194914
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -183,7 +183,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400006, guid: b6475d894388e0f4bbe9ba904c073a2e, type: 3}
+  m_Motion: {fileID: 7400000, guid: b6475d894388e0f4bbe9ba904c073a2e, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -230,7 +230,7 @@ AnimatorStateMachine:
     m_Position: {x: 36, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102686966428383592}
-    m_Position: {x: 288, y: 240, z: 0}
+    m_Position: {x: 312, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102288678694900000}
     m_Position: {x: 300, y: 132, z: 0}
